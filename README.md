@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faisal080
+- 👋 Hi,
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning React Native using Java Script codes
 - 📫 for the contact insta @m.faisal080 discord id @m.faisal080#4374
